@@ -301,9 +301,9 @@ Lower values indicate more similar textures.
 
 This project demonstrates how **texture-based segmentation** using Local Binary Patterns can effectively isolate objects with distinctive patterns from their backgrounds. While not as robust as modern deep learning approaches, it provides:
 
-Interpretable feature representation  
-Low computational requirements  
-No training data needed (few-shot learning)  
-Clear understanding of segmentation pipeline  
+- Interpretable feature representation  
+- Low computational requirements  
+- No training data needed (few-shot learning)  
+- Clear understanding of segmentation pipeline  
 
 Perfect for learning classical computer vision before diving into neural networks!
